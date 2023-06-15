@@ -1,6 +1,6 @@
 # aviasales
 
-Приложение развернуто на vercel - https://aviasales-red.vercel.app/
+Приложение развернуто на vercel - https://ticket-search-liard.vercel.app/
 
 Использованы
 - Git
