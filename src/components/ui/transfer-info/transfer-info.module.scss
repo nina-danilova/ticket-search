@@ -1,0 +1,23 @@
+.transfer-info__heading,
+.transfer-info__description {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+  @media (max-width: 520px) {
+    font-size: 12px;
+    column-gap: 5px;
+  }
+}
+
+.transfer-info__heading {
+  color: #a0b0b9;
+  text-transform: uppercase;
+}
+
+.transfer-info__flight {
+  width: 100%;
+}
+
+.transfer-info__flight:not(:last-child) {
+  margin-bottom: 10px;
+}
