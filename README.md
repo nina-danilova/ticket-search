@@ -1,4 +1,4 @@
-# aviasales
+# ticket-search
 
 Приложение развернуто на vercel - https://ticket-search-liard.vercel.app/
 
